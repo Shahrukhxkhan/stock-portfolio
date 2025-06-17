@@ -22,13 +22,6 @@ A desktop GUI application that helps you manage your personal stock portfolio in
 - **PrettyTable** (for formatted table output)
 - **Alpha Vantage API** (for real-time stock data)
 
----
-
-## 📸 Screenshot
-
-> *(Optional)* Add a screenshot of your running GUI window here.
-
----
 
 ## 📂 Project Structure
 
@@ -45,7 +38,6 @@ stock-portfolio-manager/
 
 1. **Clone the repository:**
 
-
-git clone https://github.com/your-username/stock-portfolio-manager.git
+(https://github.com/Shahrukhxkhan/stock-portfolio/blob/main/README.md)
 cd stock-portfolio-manager
 pip install requests prettytable
